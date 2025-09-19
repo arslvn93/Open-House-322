@@ -33,7 +33,7 @@ const config = {
       },
       {
         "icon": "",
-        "text": "oversized front attached garage"
+        "text": "Oversized front attached garage"
       },
       {
         "icon": "",
