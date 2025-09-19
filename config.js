@@ -12,7 +12,7 @@ const config = {
     "phone": "(403) 559-6847",
     "email": "eric.l.palin@gmail.com",
     "bio": "Eric Palin brings the same dedication and commitment to Calgary real estate that made him successful during his 20-year professional figure skating career. Born in Olds, Alberta, Eric's journey took him around the world performing with Disney on Ice and competing internationally before he discovered his passion for helping others achieve their real estate goals. Now one of Calgary's most promising up-and-coming agents, Eric goes above and beyond for his clients, providing trusted advice and high-quality service while working tirelessly to get top dollar results even in challenging markets.",
-    "photoUrl": "http://www.freshhouse.ca/images/pasted%20image%20461x672.png?crc=4025921462",
+    "photoUrl": "http://www.freshhouse.ca/images/pasted%20image%203067x4474.jpg?crc=4106325211",
     "social": {
       "facebook": "https://www.facebook.com/share/1CWf7o8URQ/?mibextid=LQQJ4d",
       "instagram": "https://www.instagram.com/ericpalinyyc/"
