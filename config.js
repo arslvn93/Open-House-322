@@ -28,8 +28,16 @@ const config = {
     "secondEventDate": "2025-09-21",
     "bundleItems": [
       {
-        "icon": "fas fa-link",
-        "text": "Contact Eric Palin Below For Further Information!"
+        "icon": "",
+        "text": "Close to down town"
+      },
+      {
+        "icon": "",
+        "text": "oversized front attached garage"
+      },
+      {
+        "icon": "",
+        "text": "Incredible neighbourhood."
       }
     ]
   },
