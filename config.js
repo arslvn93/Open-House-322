@@ -28,8 +28,8 @@ const config = {
     "secondEventDate": "2025-09-21",
     "bundleItems": [
       {
-        "icon": "https://www.youtube.com/",
-        "text": "Property Listing"
+        "icon": "fas fa-link",
+        "text": "Contact Eric Palin Below For Further Information!"
       }
     ]
   },
