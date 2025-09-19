@@ -9,19 +9,19 @@ const config = {
   "realtor": {
     "fullName": "Eric Palin",
     "title": "REALTOR®",
-    "phone": "14035596847",
+    "phone": "(403) 559-6847",
     "email": "eric.l.palin@gmail.com",
-    "bio": "",
-    "photoUrl": "",
+    "bio": "Eric Palin brings the same dedication and commitment to Calgary real estate that made him successful during his 20-year professional figure skating career. Born in Olds, Alberta, Eric's journey took him around the world performing with Disney on Ice and competing internationally before he discovered his passion for helping others achieve their real estate goals. Now one of Calgary's most promising up-and-coming agents, Eric goes above and beyond for his clients, providing trusted advice and high-quality service while working tirelessly to get top dollar results even in challenging markets.",
+    "photoUrl": "http://www.freshhouse.ca/images/pasted%20image%20461x672.png?crc=4025921462",
     "social": {
       "facebook": "https://www.facebook.com/share/1CWf7o8URQ/?mibextid=LQQJ4d",
-      "instagram": "https://instagram.com/@ericpalinyyc"
+      "instagram": "https://www.instagram.com/ericpalinyyc/"
     }
   },
   "brokerage": {
     "name": "RE/MAX",
-    "logoUrl": "",
-    "address": ""
+    "logoUrl": "https://news.remax.com/wp-content/uploads/2025/02/25_119_remaxnewshero_brandrefresh_rk_r1-1.jpg",
+    "address": "20 Crowfoot Crescent NW, Calgary, AB T3G 2P6, Canada"
   },
   "openHouse": {
     "eventDate": "2025-09-17",
@@ -36,7 +36,7 @@ const config = {
   "meta": {
     "pageTitlePrefix": "🏡 Eric Palin Open House",
     "navBrandLogoText": "OPEN HOUSE",
-    "privacyPolicyLink": ""
+    "privacyPolicyLink": "https://blog.remax.ca/privacy-notice/?_gl=1*7vv8v5*_ga*MTMxNTYwNzEzNy4xNzU4MjY1MTUy*_ga_1K2F9Z3PBF*czE3NTgyNjUxNTIkbzEkZzAkdDE3NTgyNjUxNTUkajU3JGwwJGgxODYwMDQ4NDM3"
   },
   "settings": {
     "adminWebhookUrl": "https://n8n.salesgenius.co/webhook/openhouseupdate",
@@ -126,7 +126,7 @@ const config = {
   "deploymentInfo": {
     "repoName": "Open-House-322",
     "repoUrl": "https://github.com/arslvn93/Open-House-322",
-    "netlifyUrl": "",
-    "tag": ""
+    "netlifyUrl": "https://services.leadconnectorhq.com/hooks/7scWGgbFGaynda0AcmnU/webhook-trigger/vAu610Bwvs5y85Ovw0cD",
+    "tag": "Leads | 1441 23 Street SW Open House"
   }
 };
