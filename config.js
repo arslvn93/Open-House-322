@@ -28,7 +28,7 @@ const config = {
     "secondEventDate": "2025-09-21",
     "bundleItems": [
       {
-        "icon": "fas fa-link",
+        "icon": "https://www.youtube.com/",
         "text": "Property Listing"
       }
     ]
