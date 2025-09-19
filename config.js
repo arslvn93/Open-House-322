@@ -3,7 +3,7 @@ const config = {
     "streetAddress": "1441 23 Street SW",
     "city": "Calgary",
     "cityStateZip": "Calgary, AB T3C 1H5",
-    "heroSubtitle": "Close to downtown, oversized front attached garage, and located in an incredible neighbourhood. Register to receive the full Home & Neighbourhood Info Package, floor plan, and more.",
+    "heroSubtitle": "Close to downtown, oversized front attached garage, and located in an incredible neighbourhood. Register to receive the full property info.",
     "backgroundImageUrl": "https://static01.nyt.com/images/2017/09/24/realestate/24OMT-TORONTO-slide-NFYL/24OMT-TORONTO-slide-NFYL-articleLarge-v2.jpg"
   },
   "realtor": {
